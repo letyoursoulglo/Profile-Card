@@ -5,6 +5,8 @@ body {
   justify-content: center;
   font-family: "Kumbh Sans";
   align-items: center;
+  display: flex;
+  min-height: 100vh;
 }
 
 .bg-pattern-top {
